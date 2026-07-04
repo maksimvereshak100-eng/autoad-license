@@ -1,6 +1,7 @@
-{
-    "Lonely_Morrow": {
-        "expire": "2026-07-05",
-        "active": true
-    }
-}
+[
+  {
+    "hwid": "BFEBFBFF000906A3",
+    "active": true,
+    "expires": "2027-12-31"
+  }
+]
