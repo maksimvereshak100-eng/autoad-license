@@ -1,7 +1,12 @@
 [
   {
-    "hwid": "BFEBFBFF000906A3",
+    "nick": "PlayerName",
     "active": true,
+    "expires": "2027-12-31"
+  },
+  {
+    "nick": "AnotherPlayer",
+    "active": false,
     "expires": "2027-12-31"
   }
 ]
